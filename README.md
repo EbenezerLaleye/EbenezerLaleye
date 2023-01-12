@@ -5,7 +5,7 @@
 - I love learning new things and I'm looking to start my career as Frontend Developer
 - 🛠 At the moment I'm working as a IT Engineer at the National College Of Ireland
 - Here is the link to my portfolio where all my recent projects can be found <a href="https://ebenezerlaleyeportfolio.netlify.app"> Portfolio <a>
-- Here is the link to my first interactive <a href=""> weather app </a>
+- Here is the link to my first interactive <a href="https://weatherapp-eol.netlify.app"> weather app </a>
 - 📫 Here is how to reach me on <a href="https://www.linkedin.com/in/ebenezer-ola-laleye-64a7bb23b/"> Linkedin </a>
 <!--
 **EbenezerLaleye/EbenezerLaleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
