@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hey! I'm Ebenezer(Ebby)
-- 👀 I’m a Self-Taught Frontend Development from Ireland and love to create functional and visually appealing websites!
+- 👀 I’m a Self-Taught Frontend Developer from Ireland and love to create functional and visually appealing websites!
 - 🌱 I’m currently learning React and Tailwind CSS.
 - I love learning new things and I'm looking to start my career as Frontend Developer
 - 🛠 At the moment I'm working as a IT Engineer at the National College Of Ireland
